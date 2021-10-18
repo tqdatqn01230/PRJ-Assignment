@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 1, 2021, 8:10:59 PM
+    Author     : Dell
+*/
+html{
+    background-color: #21e3ed;
+    text-align: center;
+}
+.searchbody{
+    background-color: #21e3ed;
+}
+.login{
+    display: block;
+    text-align: center;
+    background-color: #21e3ed;
+    height: 500px;
+}
+header{
+    background-color: #2198ed;
+}
+.loginheader{
+    text-align: center;
+    height: 70px;
+    margin-bottom: 10px;
+}
+.updatemailheader{
+    text-align: center;
+    color:white;    
+    margin-bottom: 10px;
+}
+.createaccountheader{
+    height: 70px;
+    color:white;
+}
+.updateheader{
+    text-align: center;
+    background-color:#2198ed;
+    padding-bottom: 0px;
+    border-bottom: 0px; 
+    margin-bottom:  10px; 
+    margin-top: 0px;
+    height: 60px;
+}
+.search{
+    background-color: #21e3ed;
+}
+footer{
+    display: block;
+    text-align: center;
+    background-color: graytext;
+    font-size: 1.5em;
+    color: black;
+}
+.facebooklogo{
+    width: 5%;
+}
+.instalogo{
+    width:5.5%;
+    margin-bottom: 8px;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table th{
+    background-color:  #ff6600;
+}
+.table td{
+    background-color:  #ff9966;
+}
+.td{
+    background-color:  #ff9966;
+}
